@@ -1,0 +1,402 @@
+body {
+  font-family: "Alegreya Sans";
+  margin: 0px;
+}
+
+/* SECTION ONE /////////////////////////*/
+
+.navbar ul {
+  list-style-type: none;
+  padding: 15px 0 0 0;
+  margin: 0px;
+  overflow: hidden;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  padding: 15px;
+  display: block;
+  text-align: center;
+}
+.navbar a:hover {
+  color: #ad9668;
+}
+.container {
+  padding-right: 200px;
+}
+.navbar li {
+  float: left;
+}
+.homeicon {
+  margin-right: 550px;
+  padding-bottom: 0px;
+}
+.imghome {
+  width: 130px;
+  padding-left: 70px;
+  padding-bottom: 0px;
+}
+.clear-fix {
+  clear: both;
+}
+.section1 {
+  height: 100vh;
+  background-image: url(images/bg-img.jpg);
+  background-size: cover;
+ 
+}
+.welcome-words {
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+  margin-top: 190px;
+  width: 43%;
+  margin: auto;
+  margin-top: 160px;
+}
+.welcome-words h1 {
+  font-size: 76px;
+  font-family: Alegreya;
+  font-weight: 400;
+  margin: 10px;
+}
+.welcome-words p {
+  padding: 0px;
+  margin: 0px;
+}
+.links {
+  text-decoration: none;
+  margin-top: 50px;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 700;
+}
+.links .link1 {
+  background-color: #8f7754;
+  margin-right: 15px;
+  padding: 17 30;
+  border-radius: 3px;
+}
+.links .link2 {
+  padding: 15 28;
+  border: 1px white solid;
+  border-radius: 3px;
+}
+.links .link1:hover {
+  background-color: white;
+  color: black;
+}
+.links .link2:hover {
+  background-color: white;
+  color: black;
+}
+
+/* SECTION TWO ////////////////////////*/
+
+.section2 {
+  overflow: hidden;
+  width: 100%;
+  height: 600px;
+}
+.container2 {
+  padding-top: 60px;
+  text-align: center;
+}
+.section2img {
+  width: 38%;
+}
+.section2img img {
+  width: 100%;
+}
+.container2 div {
+  display: inline-block;
+}
+.who-we-are {
+  color: rgb(0, 0, 0, 0.6);
+  padding-left: 50px;
+  vertical-align: top;
+  list-style-type: none;
+  width: 40%;
+  text-align: left;
+}
+.who-we-are p {
+  line-height: 30px;
+  margin-bottom: 30px;
+}
+.who-we-are ul {
+  list-style-type: none;
+  padding: 0;
+}
+.who-we-are ul li {
+  padding-bottom: 15px;
+}
+.who-we-are h1 {
+  margin: 50 50 30 0;
+  color: rgb(0, 0, 0, 0.8);
+  font-weight: 500;
+}
+.who-we-are ul li img {
+  width: 40px;
+  vertical-align: middle;
+  border-radius: 50%;
+  border: solid 0.5px #e6e6e6;
+  margin-right: 10px;
+}
+
+/* SECTION THREE //////////////////////*/
+
+.section3 {
+  background-color: #f7f7f7;
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+}
+.container3 {
+  text-align: center;
+  margin-top: 60px;
+  height: 90%;
+}
+.container3 div {
+  display: inline-block;
+  width: 40%;
+}
+.our {
+  padding-right: 60px;
+  padding-top: 70px;
+  text-align: left;
+  vertical-align: top;
+}
+.section3img img {
+  width: 100%;
+}
+.our p {
+  line-height: 30px;
+  color: rgb(0, 0, 0, 0.6);
+}
+.our h1 {
+  font-family: Alegreya;
+  margin: 50 50 30 0;
+  color: rgb(0, 0, 0, 0.8);
+  font-weight: 500;
+}
+
+/* section four ///////////////////////*/
+
+.section4 h1 {
+  margin: auto;
+  font-weight: 400;
+  font-size: 30px;
+  font-style: normal;
+  text-align: center;
+  margin: 50 0 30 0;
+  font-family: Alegreya;
+  color: rgb(0, 0, 0, 0.8);
+}
+.section4 p {
+  margin-bottom: 50px;
+  text-align: center;
+  color: rgb(0, 0, 0, 0.6);
+}
+.item2 p {
+  line-height: 30px;
+  font-size: 16px;
+  color: rgb(0, 0, 0, 0.6);
+  font-family: "Alegreya Sans";
+}
+.item2 h2 {
+  font-weight: 400;
+  font-size: 28px;
+  font-style: normal;
+  font-family: Alegreya;
+  color: rgb(0, 0, 0, 0.8);
+}
+.item2 {
+  text-align: center;
+  padding-left: 50px;
+  width: 28.3%;
+  float: left;
+}
+.item2 img {
+  width: 100%;
+}
+.section4 {
+  width: 90%;
+  margin-bottom: 80px;
+  margin: auto;
+  padding-bottom: 60px;
+}
+.section-two h2 {
+  margin-bottom: 30;
+}
+.container4 {
+  width: 100%;
+  margin: auto;
+}
+.clear-fix {
+  clear: both;
+}
+
+/* section five /////////////////////*/
+
+.section5 {
+  overflow: hidden;
+  height: 600px;
+  background-color: #f7f7f7;
+}
+.container5 {
+  margin: auto;
+  width: 85%;
+  margin-top: 50px;
+}
+.item5 {
+  float: left;
+  width: 50%;
+}
+.contact-info ul {
+  list-style-type: none;
+}
+.enter-contact {
+  font-weight: 400;
+  font-size: 17px;
+  color: rgb(0, 0, 0, 0.6);
+  font-family: "Alegreya Sans";
+  width: 90%;
+  margin: auto;
+}
+.contact-info h1 {
+  margin-top: 10px;
+  font-family: Alegreya;
+  font-weight: 400;
+  color: rgb(0, 0, 0, 0.8);
+}
+.contact-info ul {
+  padding-left: 0px;
+}
+.map {
+  text-align: right;
+}
+.map img {
+  width: 85%;
+}
+.pr1 {
+  line-height: 30px;
+}
+.pr2 {
+  padding: 20px 0px;
+}
+.contact-info ul li img {
+  width: 30px;
+  vertical-align: middle;
+  border-radius: 50%;
+  margin-right: 10px;
+  background-color: #8f7754;
+}
+.contact-info ul li {
+  padding-bottom: 30px;
+}
+ 
+/* FOOTER ONE ///////////////////////*/
+
+.footer1 {
+  height: 450px;
+  overflow: hidden;
+  background-color: #403d37;
+}
+.container-footer1 {
+  margin: auto;
+  margin-top: 30px;
+  width: 90%;
+  height: 400px;
+}
+.item-footer1 {
+  color: rgb(255, 255, 255, 0.5);
+  float: left;
+  padding: 0px 12px;
+  width: 23%;
+}
+.item-footer1 p {
+  line-height: 28px;
+}
+.pfoot2 {
+  padding-top: 20px;
+}
+.item-footer1 ul {
+  list-style: none;
+  padding-left: 0px;
+}
+.item-footer1 ul li {
+  padding-bottom: 20px;
+}
+.item-footer1 ul li img {
+  width: 16px;
+  vertical-align: middle;
+  padding-right: 8px;
+  padding-bottom: 3px;
+}
+.item-footer1 ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255, 0.4);
+}
+.four4 ul li img {
+  width: 39px;
+}
+.four4 {
+  background-image: url(images/contact-details-map.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+span {
+  padding-left: 50px;
+}
+.item-footer1 h4 {
+  color: white;
+  font-family: Alegreya;
+  font-weight: 400;
+  font-size: 20px;
+  margin-bottom: 35px;
+}
+
+/* FOOTER TWO ////////////////////////////*/
+
+.footer2 {
+  overflow: hidden;
+  background-color: #363431;
+}
+.container-footer2 {
+  text-align: center;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  width: 80%;
+}
+.container-footer2 img {
+  width: 342px;
+  margin-bottom: 15px;
+}
+.container-footer2 p {
+  margin-bottom: 30px;
+  font-size: 15px;
+  font-weight: 400;
+  font-style: normal;
+  color: rgb(255, 255, 255, 0.3);
+}
+.img-footer2 img {
+  width: 39px;
+  margin-left: 10px;
+  border-radius: 50%;
+  background-color: #474440;
+}
+.facebook:hover {
+  background-color: #0866ff;
+}
+.google:hover {
+  background-color: #eb4536;
+}
+.linkedin:hover {
+  background-color: #0a66c2;
+}
+.twitter:hover {
+  background-color: #1da1f2;
+}
